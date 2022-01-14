@@ -2,9 +2,9 @@
 Hello there! I'm a self-taught web developer trying to get his first job in the industry.
 ## 💻 Technologies
 * React
-* Javascript
-* Typescript
-* Node.js
+* JS / TS
+* HTML5 / CSS3
+* PHP
 * Rust
 
 <!---
